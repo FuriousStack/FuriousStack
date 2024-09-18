@@ -6,17 +6,31 @@
 
 ✨ special stacks ✨
 <br />
-JavaScript / TypeScript
-React.js / Next.js / Redux
-Angular / CLI
-Svelte / Ember.js
-Node.js / Expresses / Nest.js
-Python / Django / Flask / FastAPI
-Laravel / CI / Symfony / Yill
-Java / Spring Boot
-C# /APS.NET
-MySQL / MongoDB / PostgreSQL / Oracle
-GraphQL / Apollo GraphQL
-AWS / Google Cloud / Azure / DigitalOcean
-Docker / Kubernetes / Github actions
-RabbitMQ / Kafka
+⚡ JavaScript / TypeScript
+<br />
+⚡ React.js / Next.js / Redux
+<br />
+⚡ Angular / CLI
+<br />
+⚡ Svelte / Ember.js
+<br />
+⚡ Node.js / Expresses / Nest.js
+<br />
+⚡ Python / Django / Flask / FastAPI
+<br />
+⚡ Laravel / CI / Symfony / Yill
+<br />
+⚡ Java / Spring Boot
+<br />
+⚡ C# /APS.NET
+<br />
+⚡ MySQL / MongoDB / PostgreSQL / Oracle
+<br />
+⚡ GraphQL / Apollo GraphQL
+<br />
+⚡ AWS / Google Cloud / Azure / DigitalOcean
+<br />
+⚡ Docker / Kubernetes / Github actions
+<br />
+⚡ RabbitMQ / Kafka
+<br />
