@@ -5,6 +5,7 @@
 - 😄 Pronouns: male
 
 ✨ special stacks ✨
+<br />
 JavaScript / TypeScript
 React.js / Next.js / Redux
 Angular / CLI
