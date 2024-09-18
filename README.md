@@ -1,36 +1,37 @@
 - 👋 Hi, I’m @FuriousStack
-- 👀 I’m interested in Full-Stack and Full-Time postion.
+- 👀 I’m interested in Full-Stack and Full-Time position.
 - 💞️ I’m looking to collaborate on cross-functional team!
 - 📫 How to reach me: johntimothybutler@gmail.com
 - 😄 Pronouns: male
 
 ✨ special stacks ✨
 <br />
-⚡ JavaScript / TypeScript
+<p />
+- JavaScript / TypeScript
 <br />
-⚡ React.js / Next.js / Redux
+- React.js / Next.js / Redux
 <br />
-⚡ Angular / CLI
+- Angular / CLI
 <br />
-⚡ Svelte / Ember.js
+- Svelte / Ember.js
 <br />
-⚡ Node.js / Expresses / Nest.js
+- Node.js / Expresses / Nest.js
 <br />
-⚡ Python / Django / Flask / FastAPI
+- Python / Django / Flask / FastAPI
 <br />
-⚡ Laravel / CI / Symfony / Yill
+- Laravel / CI / Symfony / Yill
 <br />
-⚡ Java / Spring Boot
+- Java / Spring Boot
 <br />
-⚡ C# /APS.NET
+- C# /APS.NET
 <br />
-⚡ MySQL / MongoDB / PostgreSQL / Oracle
+- MySQL / MongoDB / PostgreSQL / Oracle
 <br />
-⚡ GraphQL / Apollo GraphQL
+- GraphQL / Apollo GraphQL
 <br />
-⚡ AWS / Google Cloud / Azure / DigitalOcean
+- AWS / Google Cloud / Azure / DigitalOcean
 <br />
-⚡ Docker / Kubernetes / Github actions
+- Docker / Kubernetes / Github actions
 <br />
-⚡ RabbitMQ / Kafka
+- RabbitMQ / Kafka
 <br />
